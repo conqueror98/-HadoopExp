@@ -1,0 +1,4 @@
+com\Hbase_Hive_Pig\Hbase.class
+com\Hbase_Hive_Pig\WordCountMapper.class
+com\Hbase_Hive_Pig\WordCountReducer.class
+com\Hbase_Hive_Pig\WordCountMain.class
